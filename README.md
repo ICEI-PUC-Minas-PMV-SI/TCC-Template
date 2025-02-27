@@ -22,14 +22,3 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Nome completo do professor 1
 
-# Planejamento
-
-Descrever o planejamento de cada etapa       
-
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
